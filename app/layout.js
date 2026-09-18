@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'SOL Alpha Scanner'}; export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
